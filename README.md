@@ -46,6 +46,6 @@ How to Launch ?
 
 `cd panel-finder`
 
-`python panel.py`
+`python3 panel.py`
 
 
