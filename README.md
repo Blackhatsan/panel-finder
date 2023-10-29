@@ -44,7 +44,7 @@ How to Launch ?
  [
 `git clone https://github.com/Blackhatsan/panel-finder.git`
 
-`cd panel`
+`cd panel-finder`
 
 `python panel.py`
 
