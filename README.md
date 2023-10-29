@@ -14,19 +14,14 @@ pip3
 How to install python on your device?:
 `apt install -y python`
 
-Or 
-یا
-
 `apt install -y python3`
 
-how to install pip3 on your device?:
-
-نحوه نصب pip3 بر روی دستگاه شما:
+how to install pip3 on your device?:ا:
 
 `apt install -y pip`
 
 Or
-یا
+
 
 `apt install -y pip3`
 
@@ -35,7 +30,7 @@ If you get an error[fg not definded], enter this command:
 `pip install colored --upgrade`
 
 Or
-یا
+
 
 `pip3 install colored --upgrade`
 
@@ -46,8 +41,8 @@ Or
 
 How to Launch ?
 
- 
-`git clone https://github.com/Blackhatsan/panel-finder`
+ [
+`git clone https://github.com/Blackhatsan/panel-finder.git`
 
 `cd panel`
 
